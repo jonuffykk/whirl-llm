@@ -5,10 +5,10 @@ Agradecemos seu interesse em contribuir para o Advanced Enterprise LLM! Este doc
 ## Como Contribuir
 
 1. Fork o repositório
-2. Crie uma nova branch (`git checkout -b feature/AmazingFeature`)
+2. Crie uma nova branch (`git checkout -b feature/omnillm`)
 3. Faça suas alterações
-4. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-5. Push para a branch (`git push origin feature/AmazingFeature`)
+4. Commit suas mudanças (`git commit -m 'Add some Amazing'`)
+5. Push para a branch (`git push origin feature/omnillm`)
 6. Abra um Pull Request
 
 ## Diretrizes de Código
