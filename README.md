@@ -57,7 +57,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Suporte
 
-Para suporte, envie um email para support@advanced-enterprise-llm.com ou abra uma issue no GitHub.
+Para suporte, envie um email para jonuffycontato@gmail.com/omnillm@support.com ou abra uma issue no GitHub.
 
 ## 🙏 Agradecimentos
 
