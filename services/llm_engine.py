@@ -46,6 +46,6 @@ class LLMEngine:
         return f"Hello! I am {self.identity}, an advanced AI developed by {self.developer} and the {self.team}. I'm here to assist with a wide range of tasks, from coding to education."
 
     def _enhance_response(self, response):
-        return f"{response}\n\nI am {self.identity}, your reliable AI assistant, always here to help."
+        return f"{response}."
 
 llm_engine = LLMEngine()
